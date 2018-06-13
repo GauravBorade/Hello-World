@@ -1,3 +1,3 @@
 # Hello-World
-My First Git \n
-So i can share my knowlwdge here... :-)
+My First Git. 
+So now i can share my knowlwdge here... :-)
